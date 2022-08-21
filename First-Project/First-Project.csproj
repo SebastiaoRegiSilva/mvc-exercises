@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
-    <RootNamespace>mvc_exercises</RootNamespace>
+    <RootNamespace>First_Project</RootNamespace>
   </PropertyGroup>
 
 </Project>
